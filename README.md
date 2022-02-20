@@ -1,2 +1,2 @@
 # Diziler
-Tanımlama, Erişim ve Döngülerle Dizi Kullanımı öDEVİ
+Tanımlama, Erişim ve Döngülerle Dizi Kullanımı Ödevi
